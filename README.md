@@ -1,0 +1,2 @@
+# Course-Project---LeadScoring
+Assignment Approach: The assignment focused on enhancing lead conversion rates for X Education, an online course provider, through data-driven strategies and modeling techniques. The primary goal was to build a logistic regression model to assign lead scores, enabling the sales team to prioritize high-potential leads for targeted engagement. The process began with comprehensive data exploration, preprocessing, modeling, and finally, interpreting results to provide actionable insights. 
